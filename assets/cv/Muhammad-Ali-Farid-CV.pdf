@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1521 >>
+stream
+BT
+/F1 20 Tf
+50 750 Td
+(Muhammad Ali Farid - Web Developer) Tj
+0 -26 Td
+/F1 12 Tf
+(Location: Pakistan | Institute: Peak Solution) Tj
+0 -18 Td
+(Email: your-email@example.com | GitHub: github.com/YOUR_USERNAME) Tj
+0 -36 Td
+/F1 14 Tf
+(PROFESSIONAL PROFILE) Tj
+0 -20 Td
+/F1 10 Tf
+(Web development student focused on building responsive, user-friendly and practical web applications.) Tj
+0 -16 Td
+(Skilled in frontend development, PHP/MySQL, responsive UI design, and modern web standards.) Tj
+0 -32 Td
+/F1 14 Tf
+(EDUCATION & TRAINING) Tj
+0 -20 Td
+/F1 11 Tf
+(Web Development Program - Peak Solution) Tj
+0 -16 Td
+/F1 10 Tf
+(Focused on HTML5, CSS3, JavaScript, PHP, MySQL, PDO, and modern responsive design.) Tj
+0 -32 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 10 Tf
+(Frontend: HTML5, CSS3, JavaScript, Responsive Web Design, Bootstrap) Tj
+0 -16 Td
+(Backend & Database: PHP, MySQL, PDO, Authentication, CRUD Operations) Tj
+0 -16 Td
+(Tools & Environments: Git, GitHub, VS Code, XAMPP, phpMyAdmin) Tj
+0 -32 Td
+/F1 14 Tf
+(FEATURED PROJECTS) Tj
+0 -20 Td
+/F1 11 Tf
+(Smart Medico - Healthcare Management System) Tj
+0 -16 Td
+/F1 10 Tf
+(Comprehensive web application connecting patients and doctors with role-based dashboards,) Tj
+0 -14 Td
+(appointment scheduling, patient & doctor management, PDO database integration, and authentication.) Tj
+0 -20 Td
+/F1 11 Tf
+(Responsive Business & Portfolio Websites) Tj
+0 -16 Td
+/F1 10 Tf
+(Modular, accessible static and database-backed web applications with responsive mobile layouts.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000224 00000 n 
+0000000295 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1891
+%%EOF
